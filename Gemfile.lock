@@ -53,7 +53,8 @@ GEM
     rainbow (3.0.0)
     rake (13.0.1)
     ref (2.0.0)
-    rexml (3.2.4)
+    rexml (3.3.3)
+      strscan
     rspec (3.9.0)
       rspec-core (~> 3.9.0)
       rspec-expectations (~> 3.9.0)
@@ -97,6 +98,7 @@ GEM
       unicode-display_width (~> 1.5)
       unicode_utils (~> 1.4)
     strings-ansi (0.2.0)
+    strscan (3.1.0)
     therubyracer (0.12.3)
       libv8 (~> 3.16.14.15)
       ref
